@@ -1,0 +1,25 @@
+{
+  "name": "flowers-valentine-code",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000l\u0000o\u0000w\u0000e\u0000r\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "sass src/style.scss src/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sramosbernal22/Flowers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sramosbernal22/Flowers/issues"
+  },
+  "homepage": "https://github.com/sramosbernal22/Flowers#readme",
+  "devDependencies": {
+    "sass": "^1.83.4"
+  }
+}
